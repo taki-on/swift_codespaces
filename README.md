@@ -11,3 +11,9 @@ You get syntax highlights, autocompletion, code collapsing and more!
 This container configuration is based on the pre-built container configuration for Swift 4 by Microsoft you can find [here](https://github.com/microsoft/vscode-dev-containers/tree/master/containers/swift-4).
 
 This configuration enables [Swift Development Enviroment VS Code extension](https://github.com/vknabel/vscode-swift-development-environment) in your codespace. All features you will get can be found in the extension docs.
+
+# Contribution
+
+Something does not work, and you do not know how to proceed? Open an issue :)
+
+Something seems odd or does not work, and you know how to fix it? Simply open a PR :)
