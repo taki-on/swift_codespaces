@@ -17,5 +17,5 @@
 	],
 
 	"postCreateCommand": "swiftc --version",
-	"remoteUser": "vscode"
+	"remoteUser": "me"
 }
