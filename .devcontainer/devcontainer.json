@@ -15,7 +15,6 @@
 		"vknabel.vscode-swift-development-environment",
 		"vadimcn.vscode-lldb"
 	],
-
 	"postCreateCommand": "swiftc --version",
 	"remoteUser": "me"
 }
