@@ -2,7 +2,9 @@
 
 Do you want to play with Swift 5 in GitHub Codespaces? Just copy this container configuration in your repository and launch your codespace! ♪┏(・o･)┛♪┗ ( ･o･) ┓♪
 
-You get syntax highlights, autocompletion, and more!
+You get the tools to compile your Swift 5 code in your codespace.
+
+You get syntax highlights, autocompletion, code collapsing and more!
 
 # Acknowledgement
 
